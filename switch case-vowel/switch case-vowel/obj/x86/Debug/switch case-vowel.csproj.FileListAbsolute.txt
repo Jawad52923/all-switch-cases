@@ -1,0 +1,10 @@
+c:\users\tabish\documents\visual studio 2010\Projects\switch case-vowel\switch case-vowel\bin\Debug\switch case-vowel.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch case-vowel\switch case-vowel\bin\Debug\switch case-vowel.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\switch case-vowel\switch case-vowel\obj\x86\Debug\switch case-vowel.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch case-vowel\switch case-vowel\obj\x86\Debug\switch case-vowel.pdb
+C:\Users\Tabish\Desktop\pf lec\switch case-vowel\switch case-vowel\obj\x86\Debug\switch case-vowel.exe
+C:\Users\Tabish\Desktop\pf lec\switch case-vowel\switch case-vowel\obj\x86\Debug\switch case-vowel.pdb
+F:\uni work\PAF-KEIT\pf lec\switch case-vowel\switch case-vowel\obj\x86\Debug\switch case-vowel.exe
+F:\uni work\PAF-KEIT\pf lec\switch case-vowel\switch case-vowel\obj\x86\Debug\switch case-vowel.pdb
+F:\uni work\PAF-KEIT\pf lec\switch case-vowel\switch case-vowel\bin\Debug\switch case-vowel.exe
+F:\uni work\PAF-KEIT\pf lec\switch case-vowel\switch case-vowel\bin\Debug\switch case-vowel.pdb

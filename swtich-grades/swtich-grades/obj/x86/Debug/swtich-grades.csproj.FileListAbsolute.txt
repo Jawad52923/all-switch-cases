@@ -1,0 +1,6 @@
+c:\users\tabish\documents\visual studio 2010\Projects\swtich-grades\swtich-grades\bin\Debug\swtich-grades.exe
+c:\users\tabish\documents\visual studio 2010\Projects\swtich-grades\swtich-grades\bin\Debug\swtich-grades.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\swtich-grades\swtich-grades\obj\x86\Debug\swtich-grades.exe
+c:\users\tabish\documents\visual studio 2010\Projects\swtich-grades\swtich-grades\obj\x86\Debug\swtich-grades.pdb
+C:\Users\Tabish\Desktop\pf lec\swtich-grades\swtich-grades\obj\x86\Debug\swtich-grades.exe
+C:\Users\Tabish\Desktop\pf lec\swtich-grades\swtich-grades\obj\x86\Debug\swtich-grades.pdb

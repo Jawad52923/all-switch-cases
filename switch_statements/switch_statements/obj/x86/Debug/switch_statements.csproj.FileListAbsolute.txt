@@ -1,0 +1,8 @@
+c:\users\tabish\documents\visual studio 2010\Projects\switch_statements\switch_statements\bin\Debug\switch_statements.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch_statements\switch_statements\bin\Debug\switch_statements.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\switch_statements\switch_statements\obj\x86\Debug\switch_statements.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch_statements\switch_statements\obj\x86\Debug\switch_statements.pdb
+C:\Users\Tabish\Desktop\pf lec\switch_statements\switch_statements\obj\x86\Debug\switch_statements.exe
+C:\Users\Tabish\Desktop\pf lec\switch_statements\switch_statements\obj\x86\Debug\switch_statements.pdb
+C:\Users\Tabish\Desktop\pf lec\switch_statements\switch_statements\bin\Debug\switch_statements.exe
+C:\Users\Tabish\Desktop\pf lec\switch_statements\switch_statements\bin\Debug\switch_statements.pdb

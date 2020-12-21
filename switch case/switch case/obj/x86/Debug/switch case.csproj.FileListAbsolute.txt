@@ -1,0 +1,6 @@
+c:\users\tabish\documents\visual studio 2010\Projects\switch case\switch case\bin\Debug\switch case.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch case\switch case\bin\Debug\switch case.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\switch case\switch case\obj\x86\Debug\switch case.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch case\switch case\obj\x86\Debug\switch case.pdb
+C:\Users\Tabish\Desktop\pf lec\switch case\switch case\obj\x86\Debug\switch case.exe
+C:\Users\Tabish\Desktop\pf lec\switch case\switch case\obj\x86\Debug\switch case.pdb

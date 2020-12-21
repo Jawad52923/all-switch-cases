@@ -1,0 +1,10 @@
+c:\users\tabish\documents\visual studio 2010\Projects\switch-goto\switch-goto\bin\Debug\switch-goto.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch-goto\switch-goto\bin\Debug\switch-goto.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\switch-goto\switch-goto\obj\x86\Debug\switch-goto.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch-goto\switch-goto\obj\x86\Debug\switch-goto.pdb
+C:\Users\Tabish\Desktop\pf lec\switch-goto\switch-goto\obj\x86\Debug\switch-goto.exe
+C:\Users\Tabish\Desktop\pf lec\switch-goto\switch-goto\obj\x86\Debug\switch-goto.pdb
+F:\uni work\PAF-KEIT\pf lec\switch-goto\switch-goto\obj\x86\Debug\switch-goto.exe
+F:\uni work\PAF-KEIT\pf lec\switch-goto\switch-goto\obj\x86\Debug\switch-goto.pdb
+F:\uni work\PAF-KEIT\pf lec\switch-goto\switch-goto\bin\Debug\switch-goto.exe
+F:\uni work\PAF-KEIT\pf lec\switch-goto\switch-goto\bin\Debug\switch-goto.pdb

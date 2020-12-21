@@ -1,0 +1,6 @@
+c:\users\tabish\documents\visual studio 2010\Projects\switch-menu\switch-menu\bin\Debug\switch-menu.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch-menu\switch-menu\bin\Debug\switch-menu.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\switch-menu\switch-menu\obj\x86\Debug\switch-menu.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch-menu\switch-menu\obj\x86\Debug\switch-menu.pdb
+C:\Users\Tabish\Desktop\pf lec\switch-menu\switch-menu\obj\x86\Debug\switch-menu.exe
+C:\Users\Tabish\Desktop\pf lec\switch-menu\switch-menu\obj\x86\Debug\switch-menu.pdb

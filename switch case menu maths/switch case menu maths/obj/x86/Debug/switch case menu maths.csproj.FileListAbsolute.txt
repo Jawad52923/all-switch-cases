@@ -1,0 +1,15 @@
+c:\users\tabish\documents\visual studio 2010\Projects\switch case menu maths\switch case menu maths\bin\Debug\switch case menu maths.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch case menu maths\switch case menu maths\bin\Debug\switch case menu maths.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.exe
+c:\users\tabish\documents\visual studio 2010\Projects\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.pdb
+C:\Users\Tabish\Desktop\pf lec\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.exe
+C:\Users\Tabish\Desktop\pf lec\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.pdb
+F:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.exe
+F:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.pdb
+F:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\bin\Debug\switch case menu maths.exe
+F:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\bin\Debug\switch case menu maths.pdb
+E:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.exe
+E:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.pdb
+E:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\bin\Debug\switch case menu maths.exe
+E:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\bin\Debug\switch case menu maths.pdb
+E:\uni work\PAF-KEIT\pf lec\switch case menu maths\switch case menu maths\obj\x86\Debug\switch case menu maths.csprojResolveAssemblyReference.cache
